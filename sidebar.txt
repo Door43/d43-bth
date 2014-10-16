@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bth:home|Door43 (bth)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bth|d43-bth repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bth/archive/master.zip|d43-bth.zip]]
+
+**Recent Changes**
+{{changes>ns = bth}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bth|Ethnologue data]]
+
